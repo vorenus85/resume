@@ -358,7 +358,7 @@
       "component": "ArticleSkills",
       "locales": {
         "en": { "title": "Languages" },
-        "hu": { "title": "Languages" }
+        "hu": { "title": "Nyelvek" }
       },
       "settings": {
         "order_items_by": "id",

@@ -22,27 +22,6 @@
       }
     },
     {
-      "id": "education",
-      "categoryId": "background",
-      "jsonPath": "/sections/education.json",
-      "faIcon": "fa-solid fa-graduation-cap",
-      "type": "column",
-      "locales": {
-        "en": {
-          "title": "*Education* Background",
-          "title_short": null,
-          "description": "A glimpse into my academic trajectory and accomplishments.",
-          "nav_label": "Education"
-        },
-        "hu": {
-          "title": "*Tanulmányi* háttér",
-          "title_short": null,
-          "description": "Rövid áttekintés a tanulmányaimról és az elért eredményeimről.",
-          "nav_label": "Tanulmányok"
-        }
-      }
-    },
-    {
       "id": "skills",
       "categoryId": "showcase",
       "jsonPath": "/sections/skills.json",
@@ -102,27 +81,6 @@
           "title_short": null,
           "description": "Válogatás a legutóbbi projektjeimből és munkáimból.",
           "nav_label": "Portfólió"
-        }
-      }
-    },
-    {
-      "id": "achievements",
-      "categoryId": "showcase",
-      "jsonPath": "/sections/achievements.json",
-      "faIcon": "fa-solid fa-award",
-      "type": "row",
-      "locales": {
-        "en": {
-          "title": "Career *Achievements*",
-          "title_short": null,
-          "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:",
-          "nav_label": "Achievements"
-        },
-        "hu": {
-          "title": "Szakmai *eredmények*",
-          "title_short": null,
-          "description": "UX tervezői pályám során folyamatosan törekedtem a tanulásra és a szakmai fejlődésre, valamint aktívan részt vettem szakmai eseményeken. Ennek eredményeként számos elismerést és tanúsítványt szereztem:",
-          "nav_label": "Eredmények"
         }
       }
     },

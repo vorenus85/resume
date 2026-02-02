@@ -1,0 +1,17 @@
+{
+  "preloaderEnabled": true,
+  "navToggleEnabled": true,
+  "supportedLanguages": [
+    {
+      "name": "English",
+      "id": "en",
+      "flagUrl": "images/flags/en-us.png",
+      "default": true
+    },
+    {
+      "name": "Magyar",
+      "id": "hu",
+      "flagUrl": "images/flags/hu.png"
+    }
+  ]
+}

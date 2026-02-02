@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleProfile",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "contact_list_ids": ["address", "email", "phone"],
+        "contact_circles_ids": [
+          "instagram",
+          "linkedin",
+          "github",
+          "download_resume"
+        ]
+      },
+      "items": [
+        {
+          "id": 1,
+          "locales": {
+            "en": {
+              "description": "<strong>Over 10 years</strong> of experience in <strong>web development</strong>, including <strong>e-commerce</strong> and <strong>SaaS product development</strong>. I build user-friendly, <strong>responsive web applications</strong> where <strong>design</strong> is not only visually appealing but also seamless in use. I primarily enjoy and aim to develop using the <strong>Laravel + Vue.js</strong> stack. I have experience in <strong>API integrations, Docker</strong>, and implementing <strong>moderately complex backend tasks</strong>."
+            },
+            "hu": {
+              "description": "<strong>Eddig több mint 10 évet</strong> töltöttem <strong>web-fejlesztéssel</strong>, beleértve <strong>e-commerce</strong> és <strong>SaaS termékfejlesztést</strong> is. Felhasználóbarát, <strong>reszponzív webalkalmazásokat</strong> készítek, ahol a <strong>design</strong> nemcsak szép, hanem gördülékenyen működik. Főként <strong>Laravel + Vue.js</strong> stackben szeretek és szeretnék fejleszteni. Tapasztalatom van <strong>API-integrációkban, Docker</strong> használatában, valamint <strong>közepesen összetett backend feladatok</strong> megvalósításában."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

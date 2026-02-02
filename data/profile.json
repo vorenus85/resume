@@ -1,0 +1,81 @@
+{
+  "name": "Perge János",
+  "profilePictureUrl": "images/pictures/avatar.jpg",
+  "locales": {
+    "en": {
+      "credits": "Thanks for the template to <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+      "role": "Full stack developer",
+      "name": "Janos Perge"
+    },
+    "hu": {
+      "credits": "Köszönet a template-ért: <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+      "role": "Full stack fejlesztő",
+      "name": "Perge János"
+    }
+  },
+  "contactOptions": [
+    {
+      "id": "address",
+      "faIcon": "fa-regular fa-map",
+      "href": null,
+      "locales": {
+        "en": {
+          "value": "4225 Harmat u. 21. Debrecen – HU",
+          "valueShort": "Debrecen – HU"
+        },
+        "hu": {
+          "value": "4225 Harmat u. 21. Debrecen – HU",
+          "valueShort": "Debrecen – HU"
+        }
+      }
+    },
+    {
+      "id": "email",
+      "value": "janos.perge@gmail.com",
+      "valueShort": "janos.perge@gmail.com",
+      "faIcon": "fa-regular fa-envelope",
+      "href": "mailto:janos.perge@gmail.com",
+      "copy": true
+    },
+    {
+      "id": "facebook",
+      "value": "Perge János",
+      "valueShort": "Perge János",
+      "faIcon": "fa-brands fa-facebook",
+      "href": "https://www.facebook.com/janos.perge.3",
+      "copy": false
+    },
+    {
+      "id": "github",
+      "value": "https://github.com/vorenus85/",
+      "valueShort": "https://github.com/vorenus85/",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/vorenus85/",
+      "copy": false
+    },
+    {
+      "id": "linkedin",
+      "value": "https://www.linkedin.com/in/janos-perge-508514142/",
+      "valueShort": "https://www.linkedin.com/in/janos-perge-508514142/",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://www.linkedin.com/in/janos-perge-508514142/",
+      "copy": false
+    },
+    {
+      "id": "phone",
+      "value": "+36 30 436 0706",
+      "valueShort": "+36 30 436 0706",
+      "faIcon": "fa-brands fa-whatsapp",
+      "href": "tel:36304360706",
+      "copy": true
+    },
+    {
+      "id": "download_resume",
+      "value": "",
+      "valueShort": "",
+      "faIcon": "fa-solid fa-file-pdf",
+      "href": "/pdf/resume.pdf",
+      "copy": false
+    }
+  ]
+}

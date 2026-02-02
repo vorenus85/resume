@@ -1,0 +1,172 @@
+{
+  "sections": [
+    {
+      "id": "about",
+      "categoryId": "home",
+      "jsonPath": "/sections/cover.json",
+      "faIcon": "fa-solid fa-address-card",
+      "type": "centered",
+      "locales": {
+        "en": {
+          "title": "Welcome to *my resume!*",
+          "title_short": "Welcome!",
+          "description": null,
+          "nav_label": "About"
+        },
+        "hu": {
+          "title": "Üdvözöllek az *önéletrajzomban!*",
+          "title_short": "Üdvözöllek!",
+          "description": null,
+          "nav_label": "Bemutatkozás"
+        }
+      }
+    },
+    {
+      "id": "education",
+      "categoryId": "background",
+      "jsonPath": "/sections/education.json",
+      "faIcon": "fa-solid fa-graduation-cap",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Education* Background",
+          "title_short": null,
+          "description": "A glimpse into my academic trajectory and accomplishments.",
+          "nav_label": "Education"
+        },
+        "hu": {
+          "title": "*Tanulmányi* háttér",
+          "title_short": null,
+          "description": "Rövid áttekintés a tanulmányaimról és az elért eredményeimről.",
+          "nav_label": "Tanulmányok"
+        }
+      }
+    },
+    {
+      "id": "skills",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/skills.json",
+      "faIcon": "fa-solid fa-tools",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Skill* Set",
+          "title_short": null,
+          "description": "Exploring the diverse range of skills I've acquired and developed:",
+          "nav_label": "Skills"
+        },
+        "hu": {
+          "title": "*Készség*készlet",
+          "title_short": null,
+          "description": "Az általam megszerzett és folyamatosan fejlesztett készségek áttekintése:",
+          "nav_label": "Készségek"
+        }
+      }
+    },
+    {
+      "id": "experience",
+      "categoryId": "background",
+      "jsonPath": "/sections/experience.json",
+      "faIcon": "fa-solid fa-briefcase",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Professional* Experience",
+          "title_short": null,
+          "description": "A look into my work experience and career journey.",
+          "nav_label": "Experience"
+        },
+        "hu": {
+          "title": "*Szakmai* tapasztalat",
+          "title_short": null,
+          "description": "Áttekintés a munkatapasztalatomról és a szakmai utamról.",
+          "nav_label": "Tapasztalat"
+        }
+      }
+    },
+    {
+      "id": "portfolio",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/portfolio.json",
+      "faIcon": "fa-solid fa-folder-open",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "My *Portfolio*",
+          "title_short": null,
+          "description": "Explore a selection of my recent projects and creative works.",
+          "nav_label": "Portfolio"
+        },
+        "hu": {
+          "title": "A *portfólióm*",
+          "title_short": null,
+          "description": "Válogatás a legutóbbi projektjeimből és munkáimból.",
+          "nav_label": "Portfólió"
+        }
+      }
+    },
+    {
+      "id": "achievements",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/achievements.json",
+      "faIcon": "fa-solid fa-award",
+      "type": "row",
+      "locales": {
+        "en": {
+          "title": "Career *Achievements*",
+          "title_short": null,
+          "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:",
+          "nav_label": "Achievements"
+        },
+        "hu": {
+          "title": "Szakmai *eredmények*",
+          "title_short": null,
+          "description": "UX tervezői pályám során folyamatosan törekedtem a tanulásra és a szakmai fejlődésre, valamint aktívan részt vettem szakmai eseményeken. Ennek eredményeként számos elismerést és tanúsítványt szereztem:",
+          "nav_label": "Eredmények"
+        }
+      }
+    },
+    {
+      "id": "hobbies",
+      "categoryId": "more",
+      "jsonPath": "/sections/hobbies.json",
+      "faIcon": "fa-solid fa-heart",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Hobbies* & Interests",
+          "title_short": null,
+          "description": "This is pretty much how I spend my free time:",
+          "nav_label": "Hobbies"
+        },
+        "hu": {
+          "title": "*Hobbi*k és érdeklődési körök",
+          "title_short": null,
+          "description": "Így töltöm leggyakrabban a szabadidőmet:",
+          "nav_label": "Hobbi"
+        }
+      }
+    },
+    {
+      "id": "contact",
+      "categoryId": "more",
+      "jsonPath": "/sections/contact.json",
+      "faIcon": "fa-solid fa-pen-to-square",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "*Contact* Me",
+          "title_short": null,
+          "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+          "nav_label": "Contact"
+        },
+        "hu": {
+          "title": "*Kapcsolat*",
+          "title_short": null,
+          "description": "Bátran vedd fel velem a kapcsolatot, ha kérdésed van vagy együttműködnél velem!",
+          "nav_label": "Kapcsolat"
+        }
+      }
+    }
+  ]
+}

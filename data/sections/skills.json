@@ -1,0 +1,415 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleSkills",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": false,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-code",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Frontend Development",
+              "description": "I have extensive experience in building user-friendly, responsive web applications based on Vue.js, ensuring a smooth and seamless user experience.",
+              "level": null
+            },
+            "hu": {
+              "title": "Frontend fejlesztés",
+              "description": "Nagy tapasztalattal rendelkezem Vue.js alapú, felhasználóbarát és reszponzív webalkalmazások készítésében, biztosítva a gördülékeny felhasználói élményt.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-object-ungroup",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "UX & Responsive Design",
+              "description": "I accurately and faithfully implement received design layouts while ensuring that the user experience is intuitive and seamless across all devices.",
+              "level": null
+            },
+            "hu": {
+              "title": "UX & reszponzív design",
+              "description": "A kapott grafikai terveket pontosan és hűen valósítom meg, miközben biztosítom, hogy a felhasználói élmény intuitív és gördülékeny legyen minden eszközön.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-shopping-cart",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "E-commerce & SaaS Product Development",
+              "description": "I have participated in the development of online stores and SaaS platforms, focusing on optimizing the overall user experience and functionality.",
+              "level": null
+            },
+            "hu": {
+              "title": "E-commerce & SaaS termékfejlesztés",
+              "description": "Részt vettem online áruházak és SaaS platformok fejlesztésében, a teljes felhasználói élmény és funkcionalitás optimalizálására fókuszálva.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-server",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Backend Development (Laravel, Node.js)",
+              "description": "I handle moderately complex backend tasks, designing and integrating APIs with the frontend.",
+              "level": null
+            },
+            "hu": {
+              "title": "Backend fejlesztés (Laravel, Node.js)",
+              "description": "Közepesen összetett backend feladatokat oldok meg, API-kat tervezek és integrálok a frontendhez.",
+              "level": null
+            }
+          }
+        },
+
+        {
+          "id": 5,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-cogs",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "DevOps & Docker",
+              "description": "I ensure stable and easily scalable applications using Docker containers and deployment processes.",
+              "level": null
+            },
+            "hu": {
+              "title": "DevOps & Docker",
+              "description": "Docker konténerekkel és deployment folyamatokkal biztosítom a stabil, könnyen skálázható alkalmazásokat.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 6,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-layer-group",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Full-stack Development",
+              "description": "I am actively expanding my knowledge in full-stack development to handle frontend and backend tasks in an integrated way.",
+              "level": null
+            },
+            "hu": {
+              "title": "Full-stack fejlesztés",
+              "description": "Aktívan bővítem a tudásom a full-stack irányban, hogy integráltan kezelhessem a frontend és backend feladatokat.",
+              "level": null
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": { "title": "Frontend Stack" },
+        "hu": { "title": "Frontend Stack" }
+      },
+      "settings": {
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": { "year": 2021, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-vuejs",
+          "fallbackFaIconColor": null,
+          "percentage": 80,
+          "locales": {
+            "en": {
+              "title": "Vue.js",
+              "description": "Capable of building and deploying complex Vue applications, including Nuxt.js projects and SPA architectures."
+            },
+            "hu": {
+              "title": "Vue.js",
+              "description": "Képes vagyok összetett Vue alkalmazások, köztük Nuxt.js projektek és SPA architektúrák fejlesztésére és deploy-olására."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": { "year": 2015, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-html5",
+          "fallbackFaIconColor": null,
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "HTML5",
+              "description": "Proficient with semantic HTML, forms, multimedia elements, and accessibility best practices."
+            },
+            "hu": {
+              "title": "HTML5",
+              "description": "Jártas vagyok a szemantikus HTML, űrlapok, multimédiás elemek és a hozzáférhetőség (accessibility) legjobb gyakorlataiban."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": { "year": 2017, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-css3",
+          "fallbackFaIconColor": null,
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "CSS3 / SCSS",
+              "description": "Skilled in responsive layouts, flexbox, grid, animations, and preprocessors like SCSS."
+            },
+            "hu": {
+              "title": "CSS3 / SCSS",
+              "description": "Jártas vagyok reszponzív elrendezések, flexbox, grid, animációk és előfeldolgozók, például SCSS használatában."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": { "year": 2017, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-js",
+          "fallbackFaIconColor": null,
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "JavaScript (ES6+)",
+              "description": "Experienced in modern JS, DOM manipulation, asynchronous programming, and API integration."
+            },
+            "hu": {
+              "title": "JavaScript (ES6+)",
+              "description": "Tapasztalt vagyok a modern JavaScript-ben, DOM manipulációban, aszinkron programozásban és API-integrációkban."
+            }
+          }
+        },
+        {
+          "id": 6,
+          "dateStart": { "year": 2017, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-bootstrap",
+          "fallbackFaIconColor": null,
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "Bootstap / UI frameworks",
+              "description": "Building reusable, responsive UI components and fast prototyping with utility-first CSS."
+            },
+            "hu": {
+              "title": "Bootstrap / UI keretrendszerek",
+              "description": "Újrahasználható, reszponzív UI komponensek készítése és gyors prototípus-készítés utility-first CSS segítségével."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": { "title": "Backend Stack" },
+        "hu": { "title": "Backend Stack" }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": { "year": 2020, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-database",
+          "fallbackFaIconColor": null,
+          "percentage": 75,
+          "locales": {
+            "en": {
+              "title": "MySQL",
+              "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+            },
+            "hu": {
+              "title": "MySQL",
+              "description": "Jártas vagyok MySQL adatbázisok kezelésében, beleértve a sématervezést és a lekérdezések optimalizálását."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": { "year": 2020, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-php",
+          "fallbackFaIconColor": null,
+          "percentage": 80,
+          "locales": {
+            "en": {
+              "title": "PHP",
+              "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+            },
+            "hu": {
+              "title": "PHP",
+              "description": "Tapasztalt vagyok dinamikus webalkalmazások készítésében PHP-vel, beleértve a szerveroldali logikát és az adatbázis-integrációt."
+            }
+          }
+        },
+
+        {
+          "id": 3,
+          "dateStart": { "year": 2022, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-node",
+          "fallbackFaIconColor": null,
+          "percentage": 50,
+          "locales": {
+            "en": {
+              "title": "NodeJS",
+              "description": "Experienced in developing server-side applications in a Node.js environment, building REST APIs, and working with asynchronous and event-driven architectures."
+            },
+            "hu": {
+              "title": "NodeJS",
+              "description": "Tapasztalt vagyok szerveroldali alkalmazások fejlesztésében Node.js környezetben, REST API-k készítésében, valamint aszinkron és eseményvezérelt architektúrák alkalmazásában."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": { "year": 2022, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-docker",
+          "fallbackFaIconColor": null,
+          "percentage": 50,
+          "locales": {
+            "en": {
+              "title": "Docker",
+              "description": "Experienced in creating containerized development environments with Docker, supporting local development, consistent builds, and simplified deployment workflows."
+            },
+            "hu": {
+              "title": "Docker",
+              "description": "Gyakorlott vagyok konténerizált fejlesztői környezetek kialakításában Dockerrel, amelyek támogatják a lokális fejlesztést, a konzisztens buildelést és az egyszerűbb deploy folyamatokat."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": { "year": 2023, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-laravel",
+          "fallbackFaIconColor": null,
+          "percentage": 65,
+          "locales": {
+            "en": {
+              "title": "Laravel",
+              "description": "I develop dynamic and scalable web applications using the Laravel framework, with a strong focus on MVC architecture, database management, authentication, and business logic."
+            },
+            "hu": {
+              "title": "Laravel",
+              "description": "Dinamikus, skálázható webalkalmazásokat fejlesztek Laravel keretrendszerrel, hangsúlyt fektetve az MVC struktúrára, adatbázis-kezelésre, autentikációra és üzleti logikára."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": { "title": "Languages" },
+        "hu": { "title": "Languages" }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 1,
+        "small_icons": true,
+        "transparent_item_icon_background": true,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": "images/flags/hu.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Hungarian",
+              "description": "Native speaker with excellent communication and writing skills.",
+              "level": "Native"
+            },
+            "hu": {
+              "title": "Magyar",
+              "description": "Anyanyelvi szint, kiváló kommunikációs és íráskészséggel.",
+              "level": "Anyanyelv"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": "images/flags/en-us.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "English",
+              "description": "B1–B2 level in English; confident in reading and writing, able to understand technical documentation and make myself understood in spoken communication.",
+              "level": "Intermediate"
+            },
+            "hu": {
+              "title": "Angol",
+              "description": "B1–B2 szintű angol; magabiztos írásban és olvasásban, technikai dokumentációk megértésében, szóban pedig képes vagyok megértetni magam.",
+              "level": "Középfok"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

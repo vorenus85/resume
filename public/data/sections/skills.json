@@ -303,15 +303,15 @@
           "img": null,
           "fallbackFaIcon": "fa-brands fa-node",
           "fallbackFaIconColor": null,
-          "percentage": 40,
+          "percentage": 50,
           "locales": {
             "en": {
               "title": "NodeJS",
-              "description": ""
+              "description": "Experienced in developing server-side applications in a Node.js environment, building REST APIs, and working with asynchronous and event-driven architectures."
             },
             "hu": {
               "title": "NodeJS",
-              "description": ""
+              "description": "Tapasztalt vagyok szerveroldali alkalmazások fejlesztésében Node.js környezetben, REST API-k készítésében, valamint aszinkron és eseményvezérelt architektúrák alkalmazásában."
             }
           }
         },
@@ -321,15 +321,15 @@
           "img": null,
           "fallbackFaIcon": "fa-brands fa-docker",
           "fallbackFaIconColor": null,
-          "percentage": 40,
+          "percentage": 50,
           "locales": {
             "en": {
               "title": "Docker",
-              "description": ""
+              "description": "Experienced in creating containerized development environments with Docker, supporting local development, consistent builds, and simplified deployment workflows."
             },
             "hu": {
               "title": "Docker",
-              "description": ""
+              "description": "Gyakorlott vagyok konténerizált fejlesztői környezetek kialakításában Dockerrel, amelyek támogatják a lokális fejlesztést, a konzisztens buildelést és az egyszerűbb deploy folyamatokat."
             }
           }
         },
@@ -343,11 +343,11 @@
           "locales": {
             "en": {
               "title": "Laravel",
-              "description": ""
+              "description": "I develop dynamic and scalable web applications using the Laravel framework, with a strong focus on MVC architecture, database management, authentication, and business logic."
             },
             "hu": {
               "title": "Laravel",
-              "description": ""
+              "description": "Dinamikus, skálázható webalkalmazásokat fejlesztek Laravel keretrendszerrel, hangsúlyt fektetve az MVC struktúrára, adatbázis-kezelésre, autentikációra és üzleti logikára."
             }
           }
         }
@@ -358,7 +358,7 @@
       "component": "ArticleSkills",
       "locales": {
         "en": { "title": "Languages" },
-        "hu": { "title": "Languages" }
+        "hu": { "title": "Nyelvek" }
       },
       "settings": {
         "order_items_by": "id",

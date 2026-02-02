@@ -3,7 +3,7 @@
     <div class="nav-sidebar-footer-language-picker-wrapper">
       <LanguagePicker :shrink="shrink" />
     </div>
-    <div v-if="!shrink" class="nav-sidebar-footer-credits">
+    <div class="nav-sidebar-footer-credits">
       <span v-html="credits" />
     </div>
   </div>
@@ -39,21 +39,6 @@ div.nav-sidebar-footer-language-picker-wrapper {
   padding-bottom: 5px;
   @media (max-height: 650px) {
     padding-bottom: 0;
-  }
-}
-
-div.nav-sidebar-footer-credits {
-  width: 100%;
-  text-align: center;
-  color: $light-5;
-  font-size: 0.9rem;
-
-  @media (max-height: 650px) {
-    font-size: 0.85rem;
-  }
-
-  @media (max-height: $nav-sidebar-footer-compress-screen-height) {
-    display: none;
   }
 }
 </style>

@@ -83,12 +83,12 @@
           "locales": {
             "en": {
               "title": "Backend Development (Laravel, Node.js)",
-              "description": "I handle moderately complex backend tasks, designing and integrating APIs with the frontend.",
+              "description": "I design and develop backend functionalities and REST APIs that directly support frontend features and business workflows.",
               "level": null
             },
             "hu": {
               "title": "Backend fejlesztés (Laravel, Node.js)",
-              "description": "Közepesen összetett backend feladatokat oldok meg, API-kat tervezek és integrálok a frontendhez.",
+              "description": "Backend oldali funkciókat és REST API-kat tervezek és fejlesztek, amelyek közvetlenül támogatják a frontend működését és az üzleti folyamatokat.",
               "level": null
             }
           }
@@ -329,7 +329,7 @@
             },
             "hu": {
               "title": "Docker",
-              "description": "Gyakorlott vagyok konténerizált fejlesztői környezetek kialakításában Dockerrel, amelyek támogatják a lokális fejlesztést, a konzisztens buildelést és az egyszerűbb deploy folyamatokat."
+              "description": "Gyakorlott vagyok konténerizált fejlesztői környezetek kialakításában Dockerrel, amelyek támogatják a lokális fejlesztést."
             }
           }
         },

@@ -11,245 +11,432 @@
       "items": [
         {
           "id": 1,
-          "dateStart": { "year": 2015, "month": 1 },
-          "dateEnd": { "year": 2017, "month": 12 },
+          "dateStart": { "year": 2013, "month": 1 },
+          "dateEnd": { "year": 2015, "month": 5 },
           "img": "images/places/logo-ux-studio.png",
           "fallbackFaIcon": null,
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "UX Designer",
-              "description": "Contributed to designing <strong>intuitive</strong> and <strong>user-friendly</strong> web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
+              "title": "Web Developer",
+              "description": "Custom website development. E-commerce website creation.",
               "list": {
                 "title": "Key Responsibilities",
                 "items": [
-                  "Conducted <strong>user research</strong> to gather insights and inform design decisions.",
-                  "Created wireframes, prototypes, and high-fidelity designs using <strong>Figma.</strong>",
-                  "Collaborated with developers to ensure <strong>design feasibility</strong> and implementation.",
-                  "Conducted <strong>usability testing</strong> to validate designs and gather feedback."
+                  "Custom website development. E-commerce website creation."
                 ]
               },
-              "province": "Hannover",
-              "country": "Germany",
-              "institution": "UX Masters Studio",
+              "province": "Debrecen",
+              "country": "Hungary",
+              "institution": "Elite Vision Ltd.",
               "tags": [
-                "Figma",
-                "Wireframing",
-                "Prototyping",
-                "Responsive Design",
-                "User Research"
+                "Photoshop",
+                "PHP",
+                "MySQL",
+                "JavaScript",
+                "Css",
+                "jQuery"
               ]
             },
             "hu": {
-              "title": "UX Designer",
-              "description": "Contributed to designing <strong>intuitive</strong> and <strong>user-friendly</strong> web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
+              "title": "Web Developer",
+              "description": "Egyedi weboldal készítés. Webáruház készítés.",
               "list": {
-                "title": "Key Responsibilities",
-                "items": [
-                  "Conducted <strong>user research</strong> to gather insights and inform design decisions.",
-                  "Created wireframes, prototypes, and high-fidelity designs using <strong>Figma.</strong>",
-                  "Collaborated with developers to ensure <strong>design feasibility</strong> and implementation.",
-                  "Conducted <strong>usability testing</strong> to validate designs and gather feedback."
-                ]
+                "title": "Főbb feladatok",
+                "items": ["Egyedi weboldal készítés. Webáruház készítés."]
               },
-              "province": "Hannover",
-              "country": "Germany",
-              "institution": "UX Masters Studio",
+              "province": "Debrecen",
+              "country": "Magyarország",
+              "institution": "Elite Vision Kft.",
               "tags": [
-                "Figma",
-                "Wireframing",
-                "Prototyping",
-                "Responsive Design",
-                "User Research"
+                "Photoshop",
+                "PHP",
+                "MYSQL",
+                "Javascript",
+                "Css",
+                "Jquery"
               ]
             }
           }
         },
         {
           "id": 2,
-          "dateStart": { "year": 2018, "month": 1 },
-          "dateEnd": { "year": 2020, "month": 8 },
-          "img": "images/places/logo-adobe.png",
+          "dateStart": { "year": 2015, "month": 6 },
+          "dateEnd": { "year": 2017, "month": 6 },
+          "img": "images/places/logo-ux-studio.png",
           "fallbackFaIcon": null,
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "Senior UI/UX Designer",
-              "description": "Led the design of innovative user interfaces and experiences for <strong>Adobe's flagship products</strong>, focusing on data-driven design principles. Collaborated with product managers and engineers to create intuitive and visually appealing designs that enhance user engagement and satisfaction.",
+              "title": "Sitebuilder",
+              "description": "Creating unique e-commerce themes.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Key Responsibilities",
                 "items": [
-                  "Developed high-fidelity prototypes and wireframes using <strong>Figma</strong> and <strong>Adobe XD</strong>.",
-                  "Conducted <strong>user testing</strong> and research to inform design decisions.",
-                  "Collaborated with <strong>cross-functional teams</strong> to ensure design consistency and quality.",
-                  "<strong>Mentored junior designers</strong> in best practices and design methodologies."
+                  "Creating unique e-commerce themes.",
+                  "Designing and revamping theme families.",
+                  "Extending platform frontend functionalities."
                 ]
               },
-              "province": "California",
-              "country": "US",
-              "institution": "Adobe",
-              "tags": ["Figma", "Adobe XD", "Sketch", "Data-Driven Design"]
+              "province": "Debrecen",
+              "country": "Hungary",
+              "institution": "ShopRenter.hu - Innonic Group",
+              "tags": [
+                "Photoshop",
+                "PHP",
+                "MySQL",
+                "Css",
+                "JavaScript",
+                "jQuery",
+                "Scrum",
+                "Twig",
+                "Symfony"
+              ]
             },
             "hu": {
-              "title": "Senior UI/UX Designer",
-              "description": "Led the design of innovative user interfaces and experiences for <strong>Adobe's flagship products</strong>, focusing on data-driven design principles. Collaborated with product managers and engineers to create intuitive and visually appealing designs that enhance user engagement and satisfaction.",
+              "title": "Sitebuilder",
+              "description": "Egyedi e-kereskedelmi sablonok készítése.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Főbb feladatok",
                 "items": [
-                  "Developed high-fidelity prototypes and wireframes using <strong>Figma</strong> and <strong>Adobe XD</strong>.",
-                  "Conducted <strong>user testing</strong> and research to inform design decisions.",
-                  "Collaborated with <strong>cross-functional teams</strong> to ensure design consistency and quality.",
-                  "<strong>Mentored junior designers</strong> in best practices and design methodologies."
+                  "Egyedi e-kereskedelmi sablonok készítése.",
+                  "Sabloncsaládok tervezése és átalakítása.",
+                  "Frontend funkciók bővítése a platformon."
                 ]
               },
-              "province": "California",
-              "country": "US",
-              "institution": "Adobe",
-              "tags": ["Figma", "Adobe XD", "Sketch", "Data-Driven Design"]
+              "province": "Debrecen",
+              "country": "Magyarország",
+              "institution": "ShopRenter.hu - Innonic Group",
+              "tags": [
+                "Photoshop",
+                "PHP",
+                "MySQL",
+                "Css",
+                "JavaScript",
+                "jQuery",
+                "Scrum",
+                "Twig",
+                "Symfony"
+              ]
             }
           }
         },
         {
           "id": 3,
-          "dateStart": { "year": 2020, "month": 9 },
-          "dateEnd": { "year": 2022, "month": 9 },
-          "img": "images/places/logo-apple.png",
+          "dateStart": { "year": 2017, "month": 7 },
+          "dateEnd": { "year": 2018, "month": 9 },
+          "img": "images/places/logo-innonic.png",
           "fallbackFaIcon": null,
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "Lead UX Designer",
-              "description": "Led the design team in creating <strong>innovative user experiences</strong> for Apple's software products, focusing on enhancing usability and accessibility. Worked closely with product managers and engineers to develop design solutions that meet user needs and business objectives.",
+              "title": "Frontend Developer",
+              "description": "Building e-commerce websites and creating theme families for the ShopRenter platform.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Key Responsibilities",
                 "items": [
-                  "Designed user interfaces and experiences for <strong>Apple's software products</strong>.",
-                  "Conducted <strong>user research</strong> and usability testing to inform design decisions.",
-                  "Collaborated with <strong>cross-functional teams</strong> to ensure design feasibility and implementation.",
-                  "<strong>Mentored junior designers</strong> in UX design best practices."
+                  "Building the Ecommerce Expo 2018 website.",
+                  "Creating the Tokyo theme family for the ShopRenter platform."
                 ]
               },
-              "province": "California",
-              "country": "US",
-              "institution": "Apple",
+              "province": "Debrecen",
+              "country": "Hungary",
+              "institution": "Innonic Group",
               "tags": [
-                "Sketch",
-                "Adobe XD",
-                "InVision",
-                "Design Strategy",
-                "Cross-Functional Collaboration"
+                "Photoshop",
+                "PHP",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "Scrum",
+                "ShopRenter",
+                "Symfony",
+                "Wordpress",
+                "Docker"
               ]
             },
             "hu": {
-              "title": "Lead UX Designer",
-              "description": "Led the design team in creating <strong>innovative user experiences</strong> for Apple's software products, focusing on enhancing usability and accessibility. Worked closely with product managers and engineers to develop design solutions that meet user needs and business objectives.",
+              "title": "Frontend Fejlesztő",
+              "description": "E-kereskedelmi weboldalak készítése és sabloncsaládok létrehozása a ShopRenter platformra.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Főbb feladatok",
                 "items": [
-                  "Designed user interfaces and experiences for <strong>Apple's software products</strong>.",
-                  "Conducted <strong>user research</strong> and usability testing to inform design decisions.",
-                  "Collaborated with <strong>cross-functional teams</strong> to ensure design feasibility and implementation.",
-                  "<strong>Mentored junior designers</strong> in UX design best practices."
+                  "Az Ecommerce Expo 2018 weboldalának elkészítése.",
+                  "A Tokyo sabloncsalád létrehozása a ShopRenter platformra."
                 ]
               },
-              "province": "California",
-              "country": "US",
-              "institution": "Apple",
+              "province": "Debrecen",
+              "country": "Magyarország",
+              "institution": "Innonic Group",
               "tags": [
-                "Sketch",
-                "Adobe XD",
-                "InVision",
-                "Design Strategy",
-                "Cross-Functional Collaboration"
+                "Photoshop",
+                "PHP",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "Scrum",
+                "ShopRenter",
+                "Symfony",
+                "Wordpress",
+                "Docker"
               ]
             }
           }
         },
         {
           "id": 4,
-          "dateStart": { "year": 2022, "month": 10 },
-          "dateEnd": { "year": 2024, "month": 9 },
-          "img": "images/places/logo-coursera.png",
+          "dateStart": { "year": 2018, "month": 10 },
+          "dateEnd": { "year": 2021, "month": 9 },
+          "img": "images/places/logo-conversific.png",
           "fallbackFaIcon": null,
           "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "UX Design Full-Time Professor",
-              "description": "Taught advanced <strong>UX design principles</strong> and <strong>practices</strong> to undergraduate and graduate students, focusing on real-world applications and industry standards. Developed course materials and assignments that challenged students to think critically and creatively about user experience design.",
+              "title": "Frontend Developer",
+              "description": "Developing responsive UIs, email templates, payment processes, and supporting marketing campaigns.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Key Responsibilities",
                 "items": [
-                  "Designed and delivered lectures on <strong>UX design methodologies</strong>.",
-                  "<strong>Supervised student projects</strong> and provided constructive feedback.",
-                  "Collaborated with industry professionals to <strong>keep course content relevant.</strong>",
-                  "<strong>Mentored students</strong> in their career development and design portfolios."
+                  "Building email report templates using Handlebars and Node.js.",
+                  "Developing payment processes using Nuxt.js.",
+                  "Creating responsive UI for users using Sass, JavaScript, and Twig.",
+                  "Supporting the marketing team by building WordPress sales landing pages and forms."
                 ]
               },
-              "province": "New York",
-              "country": "US",
-              "institution": "Coursera",
-              "tags": ["Adobe XD", "Sketch", "Axure", "Educational Mentorship"]
+              "province": "Debrecen",
+              "country": "Hungary",
+              "institution": "Conversific – - Innonic Group",
+              "tags": [
+                "Figma",
+                "CSS",
+                "Sass",
+                "Nuxt.js",
+                "Node.js",
+                "Symfony",
+                "WordPress",
+                "Scrum",
+                "Docker"
+              ]
             },
             "hu": {
-              "title": "UX Design Full-Time Professor",
-              "description": "Taught advanced <strong>UX design principles</strong> and <strong>practices</strong> to undergraduate and graduate students, focusing on real-world applications and industry standards. Developed course materials and assignments that challenged students to think critically and creatively about user experience design.",
+              "title": "Frontend Fejlesztő",
+              "description": "Reszponzív felhasználói felületek, e-mail sablonok, fizetési folyamatok fejlesztése és marketing támogatás.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Főbb feladatok",
                 "items": [
-                  "Designed and delivered lectures on <strong>UX design methodologies</strong>.",
-                  "<strong>Supervised student projects</strong> and provided constructive feedback.",
-                  "Collaborated with industry professionals to <strong>keep course content relevant.</strong>",
-                  "<strong>Mentored students</strong> in their career development and design portfolios."
+                  "E-mail riport sablonok készítése Handlebars és Node.js segítségével.",
+                  "Fizetési folyamatok fejlesztése Nuxt.js-sel.",
+                  "Reszponzív felhasználói felületek létrehozása Sass, JavaScript és Twig használatával.",
+                  "A marketing csapat támogatása WordPress értékesítési landing oldalak és űrlapok készítésével."
                 ]
               },
-              "province": "New York",
-              "country": "US",
-              "institution": "Coursera",
-              "tags": ["Adobe XD", "Sketch", "Axure", "Educational Mentorship"]
+              "province": "Debrecen",
+              "country": "Magyarország",
+              "institution": "Conversific – Innonic Group",
+              "tags": [
+                "Figma",
+                "CSS",
+                "Sass",
+                "Nuxt.js",
+                "Node.js",
+                "Symfony",
+                "WordPress",
+                "Scrum",
+                "Docker"
+              ]
             }
           }
         },
         {
           "id": 5,
-          "dateStart": { "year": 2024, "month": 10 },
-          "dateEnd": { "string": "now" },
-          "img": null,
-          "fallbackFaIcon": "fa-brands fa-steam",
-          "fallbackFaIconColor": "#222222",
+          "dateStart": { "year": 2021, "month": 10 },
+          "dateEnd": { "year": 2023, "month": 12 },
+          "img": "images/places/logo-optimonk.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
           "locales": {
             "en": {
-              "title": "Project Manager",
-              "description": "Overseeing the development and implementation of <strong>Agile methodologies</strong> within the organization, ensuring projects are delivered on time and within scope. Collaborating with cross-functional teams to manage risks, resources, and stakeholder expectations effectively.",
+              "title": "Frontend Developer",
+              "description": "Developing and maintaining scalable UI components in a component-driven architecture, contributing to a shared design system, and supporting frontend features with light backend integrations.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Key Responsibilities",
                 "items": [
-                  "Facilitated <strong>Agile ceremonies</strong> such as sprint planning, daily stand-ups, and retrospectives.",
-                  "Managed project timelines, budgets, and resources to ensure successful delivery.",
-                  "Collaborated with product owners to prioritize and <strong>refine the product backlog</strong>.",
-                  "<strong>Identified and mitigated</strong> project risks to ensure smooth execution."
+                  "Developed, refined, and maintained reusable UI components using Vue.js within a component-driven architecture.",
+                  "Integrated and documented UI components in a shared Storybook-based design system.",
+                  "Wrote and maintained unit tests to ensure component reliability and long-term maintainability.",
+                  "Implemented small-scale backend functionalities and integrations using Node.js, GraphQL, and MongoDB to support frontend features.",
+                  "Collaborated with designers and developers in a Scrum-based workflow to deliver consistent and high-quality user interfaces."
                 ]
               },
-              "province": "San Francisco",
-              "country": "US",
-              "institution": "Steam Valve",
-              "tags": ["Agile", "Scrum", "Leadership", "Risk Management"]
+              "province": "Debrecen, Hajdú-Bihar",
+              "country": "Hungary",
+              "institution": "OptiMonk - Innonic Group",
+              "tags": [
+                "Vue.js",
+                "Figma",
+                "Storybook",
+                "Component-Driven Development",
+                "Node.js",
+                "GraphQL",
+                "MongoDB",
+                "Unit Testing",
+                "Scrum",
+                "Docker"
+              ]
             },
             "hu": {
-              "title": "Project Manager",
-              "description": "Overseeing the development and implementation of <strong>Agile methodologies</strong> within the organization, ensuring projects are delivered on time and within scope. Collaborating with cross-functional teams to manage risks, resources, and stakeholder expectations effectively.",
+              "title": "Frontend fejlesztő",
+              "description": "Skálázható UI komponensek fejlesztése és karbantartása komponensalapú architektúrában, közös design rendszerhez való hozzájárulással, valamint frontend funkciók támogatása kisebb backend integrációkkal.",
               "list": {
-                "title": "Key Responsibilities:",
+                "title": "Főbb feladatok",
                 "items": [
-                  "Facilitated <strong>Agile ceremonies</strong> such as sprint planning, daily stand-ups, and retrospectives.",
-                  "Managed project timelines, budgets, and resources to ensure successful delivery.",
-                  "Collaborated with product owners to prioritize and <strong>refine the product backlog</strong>.",
-                  "<strong>Identified and mitigated</strong> project risks to ensure smooth execution."
+                  "Újrafelhasználható UI komponensek fejlesztése, finomítása és karbantartása Vue.js használatával, komponensalapú architektúrában.",
+                  "UI komponensek integrálása és dokumentálása egy közös, Storybook-alapú design rendszerben.",
+                  "Egységtesztek írása és karbantartása a komponensek megbízhatóságának és hosszú távú fenntarthatóságának biztosítása érdekében.",
+                  "Kisebb léptékű backend funkciók és integrációk megvalósítása Node.js, GraphQL és MongoDB használatával a frontend funkciók támogatására.",
+                  "Szoros együttműködés designerekkel és fejlesztőkkel Scrum-alapú munkafolyamatban az egységes és magas minőségű felhasználói felületek szállítása érdekében."
                 ]
               },
-              "province": "San Francisco",
-              "country": "US",
-              "institution": "Steam Valve",
-              "tags": ["Agile", "Scrum", "Leadership", "Risk Management"]
+              "province": "Debrecen, Hajdú-Bihar",
+              "country": "Magyarország",
+              "institution": "OptiMonk – Innonic Group",
+              "tags": [
+                "Vue.js",
+                "Figma",
+                "Storybook",
+                "Komponensalapú fejlesztés",
+                "Node.js",
+                "GraphQL",
+                "MongoDB",
+                "Egységtesztelés",
+                "Scrum",
+                "Docker"
+              ]
+            }
+          }
+        },
+        {
+          "id": 6,
+          "dateStart": { "year": 2025, "month": 2 },
+          "dateEnd": { "year": 2025, "month": 12 },
+          "img": "images/places/logo-positive-adamsky.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Frontend-Focused Full Stack Developer",
+              "description": "Frontend-focused full-stack development of Laravel-based websites and web applications, combining accessible UI implementation with backend feature development and long-term maintainability.",
+              "list": {
+                "title": "Key Responsibilities",
+                "items": [
+                  "Developed and maintained Laravel-based web applications in weekly Agile sprints, covering both frontend and backend tasks.",
+                  "Implemented accessible, WCAG-compliant user interfaces using SCSS and JavaScript, with a strong focus on usability and maintainability.",
+                  "Built and integrated backend features in PHP/Laravel, including data handling and business logic support.",
+                  "Delivered production-ready features for high-traffic projects such as szamos.hu and bevasarloutca.hu.",
+                  "Collaborated closely with designers and stakeholders to translate Adobe XD designs into reusable frontend components."
+                ]
+              },
+              "province": "Budapest",
+              "country": "Hungary",
+              "institution": "Positive Adamsky",
+              "tags": [
+                "Laravel",
+                "PHP",
+                "JavaScript",
+                "SCSS",
+                "Web Accessibility (WCAG)",
+                "Scrum",
+                "Docker",
+                "Rest Api"
+              ]
+            },
+            "hu": {
+              "title": "Frontend fókuszú Full Stack fejlesztő",
+              "description": "Laravel-alapú weboldalak és webalkalmazások frontend fókuszú full stack fejlesztése, akadálymentes felhasználói felületek kialakításával, backend funkciók implementálásával és hosszú távon jól karbantartható megoldásokkal.",
+              "list": {
+                "title": "Főbb feladatok",
+                "items": [
+                  "Laravel-alapú webalkalmazások fejlesztése és karbantartása heti Agile sprintekben, frontend és backend feladatok egyaránt.",
+                  "Akadálymentes, WCAG-kompatibilis felhasználói felületek megvalósítása SCSS és JavaScript használatával, a használhatóság és karbantarthatóság szem előtt tartásával.",
+                  "Backend funkciók fejlesztése és integrálása PHP/Laravel környezetben, adatkezelési és üzleti logikai feladatok támogatásával.",
+                  "Éles, nagy forgalmú projektekhez készült funkciók szállítása, többek között a szamos.hu és a bevasarloutca.hu oldalakon.",
+                  "Szoros együttműködés designerekkel és érintett szereplőkkel az Adobe XD tervek újrafelhasználható frontend komponensekké alakításában."
+                ]
+              },
+              "province": "Budapest",
+              "country": "Magyarország",
+              "institution": "Positive Adamsky",
+              "tags": [
+                "Laravel",
+                "PHP",
+                "JavaScript",
+                "SCSS",
+                "Webes akadálymentesség (WCAG)",
+                "Scrum",
+                "Docker",
+                "Rest Api"
+              ]
+            }
+          }
+        },
+        {
+          "id": 7,
+          "dateStart": { "year": 2024, "month": 3 },
+          "dateEnd": { "string": "now" },
+          "img": "images/places/logo-freelance.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Full Stack Developer",
+              "description": "Developing custom Shoprenter e-commerce stores with a strong focus on frontend quality, performance, and usability. Bbuilding full stack projects using Laravel and Vue.js.",
+              "list": {
+                "title": "Key Responsibilities",
+                "items": [
+                  "Building and customizing Shoprenter e-commerce stores, focusing on frontend quality, performance, and usability.",
+                  "Improving frontend architecture and collaborating with clients on UI/UX.",
+                  "Developing full stack projects with Laravel, Vue.js, Docker, and API integrations."
+                ]
+              },
+              "province": "Remote",
+              "country": "Remote",
+              "institution": "Freelance",
+              "tags": [
+                "Shoprenter",
+                "Figma",
+                "SCSS",
+                "JavaScript",
+                "Laravel",
+                "Vue.js",
+                "Docker",
+                "Rest Api"
+              ]
+            },
+            "hu": {
+              "title": "Full Stack fejlesztő",
+              "description": "Egyedi Shoprenter e-commerce áruházak fejlesztése, kiemelt figyelemmel a frontend minőségére, teljesítményére és használhatóságára. Full stack projektek készítése Laravel és Vue.js használatával.",
+              "list": {
+                "title": "Főbb feladatok",
+                "items": [
+                  "Shoprenter e-commerce áruházak építése és testreszabása, a frontend minőségére, teljesítményére és használhatóságára fókuszálva.",
+                  "A frontend architektúra fejlesztése és együttműködés az ügyfelekkel a UI/UX optimalizálásában.",
+                  "Full stack projektek fejlesztése Laravel, Vue.js, Docker és API-integrációk használatával."
+                ]
+              },
+              "province": "Remote",
+              "country": "Remote",
+              "institution": "Freelance",
+              "tags": [
+                "Shoprenter",
+                "Figma",
+                "SCSS",
+                "JavaScript",
+                "Laravel",
+                "Vue.js",
+                "Docker",
+                "Rest Api",
+                "Tailwind"
+              ]
             }
           }
         }

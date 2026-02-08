@@ -15,21 +15,6 @@
   },
   "contactOptions": [
     {
-      "id": "address",
-      "faIcon": "fa-regular fa-map",
-      "href": null,
-      "locales": {
-        "en": {
-          "value": "4225 Harmat u. 21. Debrecen – HU",
-          "valueShort": "Debrecen – HU"
-        },
-        "hu": {
-          "value": "4225 Harmat u. 21. Debrecen – HU",
-          "valueShort": "Debrecen – HU"
-        }
-      }
-    },
-    {
       "id": "email",
       "value": "janos.perge@gmail.com",
       "valueShort": "janos.perge@gmail.com",

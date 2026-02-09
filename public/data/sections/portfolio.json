@@ -13,9 +13,9 @@
         },
         "hu": {
           "title": null,
-          "category_all": "All",
-          "category_fullstack": "Full-Stack Applications",
-          "category_frontend": "Frontend Applications & Games",
+          "category_all": "Összes",
+          "category_fullstack": "Full-Stack alkalmazások",
+          "category_frontend": "Frontend alkalmazások",
           "category_mini": "Mini Projects / Experiments"
         }
       },
@@ -26,63 +26,179 @@
       "items": [
         {
           "id": 1,
-          "img": "images/portfolio/project-logo-3.png",
+          "img": "images/portfolio/portfolio-library.png",
           "fallbackFaIcon": "",
           "fallbackFaIconColor": null,
           "category": "fullstack",
           "locales": {
             "en": {
-              "title": "BrainPulse",
-              "description": "<b>BrainPulse</b> is your ultimate productivity app, helping you manage tasks, organize your schedule, and boost your focus. With its sleek and modern interface, BrainPulse offers features like task lists, reminders, goal tracking, and customizable productivity metrics. Whether you're a student, professional, or anyone looking to optimize their time and efficiency, BrainPulse is your go-to app for achieving more while maintaining work-life balance.",
-              "tags": ["app", "productivity", "tasks", "focus"]
+              "title": "Personal Library Dashboard",
+              "description": "A <b>full-stack admin application</b> built with <b>Vue 3 (Composition API)</b> and <b>Laravel</b>, featuring <b>RESTful CRUD operations</b>, <b>reusable composables</b>, and <b>advanced filtering</b> for managing a personal book collection.",
+              "tags": [
+                "admin-dashboard",
+                "fullstack",
+                "vue3",
+                "composition-api",
+                "primevue",
+                "laravel",
+                "rest-api",
+                "crud",
+                "docker",
+                "ci-cd"
+              ]
             },
             "hu": {
-              "title": "BrainPulse",
-              "description": "<b>BrainPulse</b> is your ultimate productivity app, helping you manage tasks, organize your schedule, and boost your focus. With its sleek and modern interface, BrainPulse offers features like task lists, reminders, goal tracking, and customizable productivity metrics. Whether you're a student, professional, or anyone looking to optimize their time and efficiency, BrainPulse is your go-to app for achieving more while maintaining work-life balance.",
-              "tags": ["app", "productivity", "tasks", "focus"]
+              "title": "Personal Library Dashboard",
+              "description": "Egy <b>full-stack admin alkalmazás</b> <b>Vue 3 (Composition API)</b> és <b>Laravel</b> használatával, <b>RESTful CRUD műveletekkel</b>, <b>újrahasználható composable-okkal</b> és <b>fejlett szűréssel</b> a személyes könyvgyűjtemény kezeléséhez.",
+              "tags": [
+                "admin-dashboard",
+                "fullstack",
+                "vue3",
+                "composition-api",
+                "primevue",
+                "laravel",
+                "rest-api",
+                "crud",
+                "docker",
+                "ci-cd"
+              ]
             }
           },
           "links": [
             {
-              "faIcon": "fa-brands fa-apple",
-              "href": "https://www.apple.com/br/app-store/",
-              "stringKey": "view_on_app_store"
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/vorenus85/library-dashboard",
+              "stringKey": "view_code"
             },
             {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://play.google.com/store",
-              "stringKey": "view_on_google_play"
+              "faIcon": "fas fa-globe",
+              "href": "https://library-dashboard-main-41bsq1.laravel.cloud/",
+              "stringKey": "view_more_info"
             }
           ]
         },
         {
           "id": 2,
-          "img": "images/portfolio/project-logo-6.png",
+          "img": "images/portfolio/portfolio-trivia.png",
           "fallbackFaIcon": "",
           "fallbackFaIconColor": null,
           "category": "frontend",
           "locales": {
             "en": {
-              "title": "Stackers",
-              "description": "<b>Stackers</b> is your all-in-one organization and note-taking app, designed to streamline your digital life. With its seamless integration of task management, note organization, and cloud storage, Stackers helps you stay organized and productive. Create to-do lists, jot down ideas, and sync your notes across devices effortlessly. Whether you're a student, professional, or anyone seeking a clutter-free digital workspace, Stackers is here to elevate your organizational game.",
-              "tags": ["app", "organization", "notes", "productivity"]
+              "title": "Trivia",
+              "description": "A <b>fun and interactive trivia app</b> built with <b>Vue 3</b>, <b>Pinia</b>, <b>Tailwind CSS</b>, and <b>Vite</b>, powered by a <b>custom Node.js API</b>. It features <b>dynamically fetched questions</b> across multiple categories, with <b>4 answer options</b> each, and fully <b>responsive design</b>.",
+              "tags": ["app", "vue3", "pinia", "tailwindcss", "vite", "node.js"]
             },
             "hu": {
-              "title": "Stackers",
-              "description": "<b>Stackers</b> is your all-in-one organization and note-taking app, designed to streamline your digital life. With its seamless integration of task management, note organization, and cloud storage, Stackers helps you stay organized and productive. Create to-do lists, jot down ideas, and sync your notes across devices effortlessly. Whether you're a student, professional, or anyone seeking a clutter-free digital workspace, Stackers is here to elevate your organizational game.",
-              "tags": ["app", "organization", "notes", "productivity"]
+              "title": "Trivia",
+              "description": "Egy <b>szórakoztató és interaktív kvízalkalmazás</b> <b>Vue 3</b>, <b>Pinia</b>, <b>Tailwind CSS</b> és <b>Vite</b> használatával, egy <b>egyedi Node.js API</b> támogatásával. A projekt <b>dynamikusan betöltődő kérdéseket</b> kínál több kategóriában, <b>4 válaszlehetőséggel</b> mindegyikhez, teljesen <b>reszponzív kialakítással</b>.",
+              "tags": ["app", "vue3", "pinia", "tailwindcss", "vite", "node.js"]
             }
           },
           "links": [
             {
-              "faIcon": "fa-brands fa-apple",
-              "href": "https://www.apple.com/br/app-store/",
-              "stringKey": "view_on_app_store"
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/vorenus85/trivia",
+              "stringKey": "view_code"
             },
             {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://play.google.com/store",
-              "stringKey": "view_on_google_play"
+              "faIcon": "fas fa-globe",
+              "href": "https://vorenus85.github.io/trivia/",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "img": "images/portfolio/portfolio-wheelzie.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "frontend",
+          "locales": {
+            "en": {
+              "title": "Wheelzie",
+              "description": "A <b>modern Car Rental Admin Dashboard</b> built with <b>Vue 3</b>, <b>Pinia</b>, <b>PrimeVue</b>, and <b>Tailwind CSS</b>. It handles <b>vehicle inventory</b>, <b>reservations</b>, and <b>customer data</b> using <b>static JSON</b>, featuring a <b>user-friendly interface</b> and <b>advanced admin tools</b>.",
+              "tags": [
+                "admin-dashboard",
+                "frontend",
+                "vue3",
+                "composition-api",
+                "pinia",
+                "primevue",
+                "tailwindcss",
+                "json"
+              ]
+            },
+            "hu": {
+              "title": "Wheelzie",
+              "description": "Egy <b>modern Car Rental Admin Dashboard</b>, amely <b>Vue 3</b>, <b>Pinia</b>, <b>PrimeVue</b> és <b>Tailwind CSS</b> használatával készült. <b>Járműkészlet</b>, <b>foglalások</b> és <b>ügyféladatok</b> kezelésére szolgál <b>statikus JSON</b> felhasználásával, <b>felhasználóbarát felülettel</b> és <b>fejlett admin funkciókkal</b>.",
+              "tags": [
+                "admin-dashboard",
+                "frontend",
+                "vue3",
+                "composition-api",
+                "pinia",
+                "primevue",
+                "tailwindcss",
+                "json"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/vorenus85/wheelzie",
+              "stringKey": "view_code"
+            },
+            {
+              "faIcon": "fas fa-globe",
+              "href": "https://vorenus85.github.io/wheelzie/",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "img": "images/portfolio/portfolio-cyber.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "frontend",
+          "locales": {
+            "en": {
+              "title": "Cyber Ecommerce",
+              "description": "A <b>modern e-commerce front-end app</b> built with <b>Vue 3</b>, <b>Pinia</b>, <b>Tailwind CSS</b>, and <b>Vite</b>. It features an <b>e-commerce homepage</b> and <b>category pages</b> using <b>mocked product data</b> for a <b>responsive and intuitive shopping experience</b>.",
+              "tags": [
+                "ecommerce",
+                "app",
+                "vue3",
+                "pinia",
+                "tailwindcss",
+                "vite"
+              ]
+            },
+            "hu": {
+              "title": "Cyber Ecommerce",
+              "description": "Egy <b>modern e-kereskedelmi front-end alkalmazás</b> <b>Vue 3</b>, <b>Pinia</b>, <b>Tailwind CSS</b> és <b>Vite</b> használatával. <b>Főoldalt</b> és <b>kategóriaoldalakat</b> kínál <b>mockolt termékadatokkal</b>, biztosítva a <b>reszponzív és intuitív vásárlási élményt</b>.",
+              "tags": [
+                "ecommerce",
+                "app",
+                "vue3",
+                "pinia",
+                "tailwindcss",
+                "vite"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/vorenus85/cyber-ecommerce",
+              "stringKey": "view_code"
+            },
+            {
+              "faIcon": "fas fa-globe",
+              "href": "https://vorenus85.github.io/cyber-ecommerce/",
+              "stringKey": "view_more_info"
             }
           ]
         }

@@ -17,4 +17,15 @@ export default defineConfig({
       },
     },
   },
+  server: {
+    hmr: {
+      protocol: "ws", // websockets
+      host: "localhost",
+      port: 24678, // opcionális, random is lehet
+    },
+    watch: {
+      // ha public mappa változásait is figyelni akarod:
+      ignored: [], // alapból a node_modules van ignorálva
+    },
+  },
 });

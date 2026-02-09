@@ -26,6 +26,7 @@
       "where_to_find": "Where to Find",
       "where_to_find_description": "{project} is available on the following platforms and services:",
       "view_certification": "View Certification",
+      "view_code": "View Code",
       "view_more_info": "View More Info",
       "view_on_app_store": "App Store",
       "view_on_google_play": "Google Play",
@@ -58,6 +59,7 @@
       "where_to_find_description": "A(z) {project} az alábbi platformokon és szolgáltatásokon érhető el:",
       "view_certification": "Tanúsítvány megtekintése",
       "view_more_info": "További információ",
+      "view_code": "Forráskód megtekintése",
       "view_on_app_store": "App Store",
       "view_on_google_play": "Google Play",
       "view_on_windows_store": "Windows Store"

@@ -26,6 +26,59 @@
       "items": [
         {
           "id": 1,
+          "img": "images/portfolio/portfolio-car-rental.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "fullstack",
+          "locales": {
+            "en": {
+              "title": "Car Rental",
+              "description": "A <b>full-stack car rental application</b> built with <b>Vue 3</b> and <b>Laravel</b>, featuring a <b>multi-step booking process</b>, <b>car search and filtering</b>, and an <b>admin dashboard</b> for managing vehicles and bookings.",
+              "tags": [
+                "car-rental",
+                "fullstack",
+                "vue3",
+                "primevue",
+                "tailwindcss",
+                "laravel",
+                "rest-api",
+                "booking-system",
+                "admin-dashboard",
+                "docker"
+              ]
+            },
+            "hu": {
+              "title": "Car Rental",
+              "description": "Egy <b>full-stack autókölcsönző alkalmazás</b> <b>Vue 3</b> és <b>Laravel</b> használatával, <b>többlépéses foglalási folyamattal</b>, <b>autókereséssel és szűréssel</b>, valamint <b>adminisztrációs felülettel</b> a járművek és foglalások kezeléséhez.",
+              "tags": [
+                "car-rental",
+                "fullstack",
+                "vue3",
+                "primevue",
+                "tailwindcss",
+                "laravel",
+                "rest-api",
+                "booking-system",
+                "admin-dashboard",
+                "docker"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/vorenus85/car-rental/",
+              "stringKey": "view_code"
+            },
+            {
+              "faIcon": "fas fa-globe",
+              "href": "https://car-rental.janosperge.dev/",
+              "stringKey": "view_more_info"
+            }
+          ]
+        },
+        {
+          "id": 2,
           "img": "images/portfolio/portfolio-library.png",
           "fallbackFaIcon": "",
           "fallbackFaIconColor": null,
@@ -78,7 +131,7 @@
           ]
         },
         {
-          "id": 2,
+          "id": 3,
           "img": "images/portfolio/portfolio-trivia.png",
           "fallbackFaIcon": "",
           "fallbackFaIconColor": null,
@@ -109,7 +162,7 @@
           ]
         },
         {
-          "id": 3,
+          "id": 4,
           "img": "images/portfolio/portfolio-wheelzie.png",
           "fallbackFaIcon": "",
           "fallbackFaIconColor": null,
@@ -158,7 +211,7 @@
           ]
         },
         {
-          "id": 4,
+          "id": 5,
           "img": "images/portfolio/portfolio-cyber.png",
           "fallbackFaIcon": "",
           "fallbackFaIconColor": null,
